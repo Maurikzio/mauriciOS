@@ -1,3 +1,9 @@
+commit 1be58c1f67280f864046a909530cb1867e8be9c6
+Author: Maurikzio <m.morocho1196@gmail.com>
+Date:   Tue Apr 17 03:22:36 2018 +0300
+
+    file logList.txt which enlists the git logs has been added, (homework lesson02 done)
+
 commit 4392a8e904d6aeb9094e8f9b7a922adcfd0821ac
 Author: Maurikzio <m.morocho1196@gmail.com>
 Date:   Tue Apr 17 03:18:11 2018 +0300
