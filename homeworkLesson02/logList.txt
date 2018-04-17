@@ -1,0 +1,23 @@
+commit 4392a8e904d6aeb9094e8f9b7a922adcfd0821ac
+Author: Maurikzio <m.morocho1196@gmail.com>
+Date:   Tue Apr 17 03:18:11 2018 +0300
+
+    folder for storing Lesson02's homework has been created, and homework's files in extension .pdf and .pages has been aded too
+
+commit a8be0f32f30609669778b5e183f9bba2df0cfc4c
+Author: Maurikzio <m.morocho1196@gmail.com>
+Date:   Tue Apr 17 03:10:22 2018 +0300
+
+    folder for storing Lesson01's homework has been created, homework's files in extension .pdf and .page has been added too
+
+commit 892fd5dcc9b128fb4e2384234affc1c629a06ff2
+Author: Maurikzio <m.morocho1196@gmail.com>
+Date:   Tue Apr 17 03:04:24 2018 +0300
+
+    file .gitgnore has been added to repo
+
+commit 8d57310573538f33076ad6988a186ecc384227d1
+Author: Mauricio <m.morocho1196@gmail.com>
+Date:   Tue Apr 17 03:00:58 2018 +0300
+
+    Initial commit
